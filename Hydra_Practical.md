@@ -1,4 +1,4 @@
-##🐠 Introductory Practical
+##🐠 Hydra Practical
 
 ####"Hello world!" example
 Open the Automatic QSUB Generator at <https://hydra-3.si.edu/tools/QSubGen/>

@@ -1,4 +1,4 @@
-##Basic Unix Command Line Skill
+##Introductory Unix practical
 
 ***Note:*** Lines that start with a `$` should be entered on the command line without the  `$`
 
