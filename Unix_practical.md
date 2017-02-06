@@ -7,8 +7,8 @@
 - Click on the top right `Clone or Download` button and download this repository.
 - Open your terminal window. On a Mac, this is contained in the Utilities folder within your Applications folder. On Unix, it should be in your Applications folder as well.
 - `cd` into the directory that contains the workshop `.zip` file (on a Mac, this is likely to be `~/Downloads`)
-- Enter the command `unzip One-Day-Unix-Hydra-master.zip`
-- Now `cd` into the new `One-Day-Unix-Hydra-master` directory
+- Enter the command `unzip Unix_Hydra_2hr-master.zip`
+- Now `cd` into the new `Unix_Hydra_2hr-master` directory
 
 **2. Make a directory and copy your contents into it**
 
